@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+
+  .navbar {
+  height: 70px; /* Set desired navbar height */
+  padding: 10px; /* Adjust padding to align content vertically */
+}
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .video-grid {
+    margin-top: 20px;
+  }
+  .video-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+  }
+
+.row {
+  margin: 0; /* Remove default row margin */
+}
+  .col-sm-1 {
+  margin: 2px; /* Add a 2px gap between boxes */
+  background-color: #f8f9fa; /* Optional: Add background color for visibility */
+  text-align: center; /* Optional: Center-align text */
+  padding: 5px; /* Optional: Add padding inside the boxes */
+  border: 1px solid #dbd7d7; /* Optional: Add a border for visibility */
+  border-radius: 7px; /* Optional: Slightly round the corners */
+  font-size: 15px;
+  font-weight: 200;
+  margin-left: 19px;
+  margin-bottom: 10px;
+}
+
